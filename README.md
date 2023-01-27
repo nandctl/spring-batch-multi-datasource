@@ -1,3 +1,5 @@
+
+#https://www.baeldung.com/spring-boot-configure-multiple-datasources  -- must read
 # Run this example with docker-compose
 
 ```bash
